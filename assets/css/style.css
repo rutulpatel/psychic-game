@@ -1,0 +1,16 @@
+h1, h2, h3, h4 {
+    font-weight: 300;
+}
+
+.wins {
+    color: green;
+}
+
+.losses {
+    color: red;
+}
+
+.guesses, .guesses-made {
+    color: darkblue;
+}
+
